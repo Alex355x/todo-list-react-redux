@@ -26,11 +26,9 @@ The tech stack is:
 - ESLint
 - npm
 - prop-types
-- moment.js
-- qs
 
 
 Link on page:
-https://cranky-jepsen-c6dfee.netlify.app/
+https://stupefied-ptolemy-74a43f.netlify.app/
 
 Author Alexei Pylypchuk
